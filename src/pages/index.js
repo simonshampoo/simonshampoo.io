@@ -9,12 +9,15 @@ import { Typescript } from "@emotion-icons/simple-icons/TypeScript";
 import { Node } from "@emotion-icons/fa-brands/Node";
 import { Graphql } from "@emotion-icons/simple-icons/Graphql";
 import { ReactLogo } from "@emotion-icons/boxicons-logos/ReactLogo";
+import { Elixir } from "@emotion-icons/simple-icons/Elixir";
+import { Go } from "@emotion-icons/simple-icons/Go";
+import { Scala } from "@emotion-icons/simple-icons/Scala";
+
 // markup
 
 const Span = ({ color, children }) => {
   return <span style={{ color: color }}>{children}</span>;
 };
-
 
 const IndexPage = () => {
   return (
@@ -107,12 +110,27 @@ const IndexPage = () => {
                 <Ethereum size="24" />
               </li>
               <li>UI/UX design</li>
+              <li>DeFi</li>
               <li>generative art, creative coding, & NFTs</li>
               <li>
                 full stack dev (This site's built with
                 <span style={{ color: "rebeccapurple" }}> Gatsby</span>
                 !)
               </li>
+            </ul>
+            <h2 style={{ fontFamily: "TiemposHeadline", fontWeight: 900 }}>
+              Things I want to learn in the future:
+            </h2>
+            <ul>
+              <li>
+                <Elixir size="24" color="purple" />,{" "}
+                <Go size="36" color="#29BEB0" />,{" "}
+                <Scala size="24" color="#DE3423" />
+              </li>
+              <li>networking</li>
+              <li>cryptography, cryptosystems</li>
+              <li>economics and game theory</li>
+              <li>graph theory</li>
             </ul>
           </code>
           {/* <button

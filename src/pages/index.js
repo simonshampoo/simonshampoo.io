@@ -128,8 +128,9 @@ const IndexPage = () => {
                 <Scala size="24" color="#DE3423" />
               </li>
               <li>networking</li>
+              <li>competitive programming</li>
               <li>cryptography, cryptosystems</li>
-              <li>economics and game theory</li>
+              <li>economics, (combinatorial) game theory</li>
               <li>graph theory</li>
             </ul>
           </code>

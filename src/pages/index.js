@@ -38,7 +38,7 @@ const IndexPage = () => {
             marginBottom: 0,
           }}
         >
-          Hi, I'm Simon. 👋
+          hi fren 👋
         </h1>
         <a
           href="https://www.linkedin.com/in/simon-shamoon"
@@ -73,7 +73,7 @@ const IndexPage = () => {
               </li>
               <li>
                 SWE Intern @ <Span color="#343a40" children="Campus" />
-                <Span color="#007bff" children="Logic" /> (Oct 2021 - Present)
+                <Span color="#007bff" children="Logic" /> (Oct 2021 - Dec 2021)
               </li>
               <li>Trader Intern @ Edward Jones (Jun 2021 - Aug 2021)</li>
             </ul>
@@ -94,7 +94,6 @@ const IndexPage = () => {
               </li>
               <li>
                 Ethereum (and related protocols') ecosystem(s) & smart contract development
-                <Ethereum size="24" />
               </li>
               <li>networks, distributed computing, blockchain</li>
             </ul>

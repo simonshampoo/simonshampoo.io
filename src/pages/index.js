@@ -99,38 +99,28 @@ const IndexPage = () => {
             </h2>
             <ul>
               <li>
-                <Span color="red" children={<Ruby size="24" />} />,{" "}
                 <Span color="#007ACC" children={<Typescript size="24" />} />,{" "}
                 <Span color="#68A063" children={<Node size="36" />} />,{" "}
-                <Span color="#e535ab" children={<Graphql size="24" />} />,{" "}
-                <Span color="#61DBFB" children={<ReactLogo size="28" />} />
+                Solidity
               </li>
               <li>
-                blockchain dev & the ethereum ecosystem
+                blockchain dev & the Ethereum ecosystem
                 <Ethereum size="24" />
               </li>
-              <li>UI/UX design</li>
-              <li>DeFi</li>
-              <li>generative art, creative coding, & NFTs</li>
-              <li>
-                full stack dev (This site's built with
-                <span style={{ color: "rebeccapurple" }}> Gatsby</span>
-                !)
-              </li>
+              <li>DeFi, NFTs</li>
+              <li>networks, distributed computing</li>
             </ul>
             <h2 style={{ fontFamily: "TiemposHeadline", fontWeight: 900 }}>
               Things I want to learn in the future:
             </h2>
             <ul>
               <li>
-                <Elixir size="24" color="purple" />,{" "}
                 <Go size="36" color="#29BEB0" />,{" "}
-                <Scala size="24" color="#DE3423" />
               </li>
+              <li>infosec, cybersec in blockchains</li>
               <li>networking</li>
               <li>cryptography, cryptosystems</li>
-              <li>economics, (combinatorial) game theory</li>
-              <li>graph theory</li>
+              <li>low level programming</li>
             </ul>
           </code>
           {/* <button

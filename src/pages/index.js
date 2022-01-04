@@ -61,7 +61,7 @@ const IndexPage = () => {
         </a>
         <div style={{ fontSize: 20, width: 700, marginTop: 10 }}>
           <code>
-            I am a junior at ASU studying computer science.
+            junior at ASU studying computer science. 
             <h2 style={{ fontFamily: "TiemposHeadline", fontWeight: 900 }}>
               My work experience:
             </h2>
@@ -81,63 +81,33 @@ const IndexPage = () => {
               Things I enjoy:
             </h2>
             <ul>
-              <li>
-                programming{" "}
-                <Span
-                  color="gray"
-                  children="// TODO: remove this, we already know -_-"
-                />
-              </li>
-              <li>blockchain technology & DeFi</li>
-              <li>algorithms and discrete math</li>
+              <li>blockchain technology, defi, NFTs, etc.</li>
               <li>Dota 2</li>
-              <li>sparkling water & coffee</li>
-              <li>dogs c･ﻌ･ɔ</li>
             </ul>
             <h2 style={{ fontFamily: "TiemposHeadline", fontWeight: 900 }}>
               Things I'm currently learning:
             </h2>
             <ul>
               <li>
-                <Span color="#007ACC" children={<Typescript size="24" />} />,{" "}
-                <Span color="#68A063" children={<Node size="36" />} />,{" "}
+                TypeScript,
                 Solidity
               </li>
               <li>
-                blockchain dev & the Ethereum ecosystem
+                Ethereum (and related protocols') ecosystem(s) & smart contract development
                 <Ethereum size="24" />
               </li>
-              <li>DeFi, NFTs</li>
-              <li>networks, distributed computing</li>
+              <li>networks, distributed computing, blockchain</li>
             </ul>
             <h2 style={{ fontFamily: "TiemposHeadline", fontWeight: 900 }}>
               Things I want to learn in the future:
             </h2>
             <ul>
-              <li>
-                <Go size="36" color="#29BEB0" />,{" "}
-              </li>
-              <li>infosec, cybersec in blockchains</li>
-              <li>networking</li>
+              <li>Rust, Golang</li>
+              <li>infosec, cybersec, and networking in blockchains</li>
               <li>cryptography, cryptosystems</li>
-              <li>low level programming</li>
+              <li>scripting, devtools, hacking</li>
             </ul>
           </code>
-          {/* <button
-            style={{
-              backgroundColor: "#416dea",
-              marginLeft: "30%",
-              fontSize: 20,
-              color: "white",
-              border: "none",
-              textAlign: "center",
-              height: 50,
-              width: 200,
-              borderRadius: 36,
-            }}
-          >
-            <code>Get in touch!</code>
-          </button> */}
         </div>
       </div>
     </main>

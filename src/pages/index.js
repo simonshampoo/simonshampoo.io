@@ -60,11 +60,15 @@ const IndexPage = () => {
                         <li>Rust, Golang</li>
                         <li>gas golfing/optimization, MEV, EVM quirks</li>
                         <li>
+                            layer 2's, scaling, rollups
+                        </li>
+                        <li>
                             infosec, cybersec, and networking in blockchains{" "}
                         </li>
                         <li>cryptography, cryptosystems</li>
                         <li>scripting, devtools, hacking</li>
                         <li>zsh mastery, developer productivty, (n)vim</li>
+                        <li>UI/UX & product design</li>
                     </ul>
                 </div>
                 <footer>

@@ -20,10 +20,6 @@ const IndexPage = () => {
                     &nbsp;
                     <a href="https://www.github.com/simonshm5">github,</a>
                     &nbsp;
-                    <a href="https://drive.google.com/file/d/1H2Olqh4MTa2akqiLmDUx7amh_ycyMk4y/view?usp=sharing">
-                        resume,
-                    </a>
-                    &nbsp;
                     <a href="mailto:simonshm5@gmail.com">email</a>
                 </b>
                 <div>

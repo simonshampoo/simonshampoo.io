@@ -68,7 +68,7 @@ const IndexPage = () => {
                     </ul>
                 </div>
                 <footer>
-                    <i>site inspired by <a href="www.gakonst.com">gakonst.com</a></i>
+                    <i>site inspired by <a href="gakonst.com">gakonst.com</a></i>
                 </footer>
             </div>
         </div>

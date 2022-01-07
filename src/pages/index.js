@@ -63,8 +63,7 @@ const IndexPage = () => {
                         </li>
                         <li>cryptography, cryptosystems</li>
                         <li>scripting, devtools, hacking</li>
-                        <li>zsh mastery, developer productivty, (n)vim</li>
-                        <li>UI/UX & product design</li>
+                        <li>shell, developer productivty, (n)vim</li>
                     </ul>
                 </div>
                 <footer>

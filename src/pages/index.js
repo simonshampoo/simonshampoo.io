@@ -25,7 +25,7 @@ const IndexPage = () => {
                 <div>
                     junior at ASU studying computer science.
                     <h2>
-                        <i>my work experience:</i>
+                        my experience:
                     </h2>
                     <ul>
                         <li>Incoming SWE intern @ Capital One</li>
@@ -33,37 +33,37 @@ const IndexPage = () => {
                         <li>Equities Trader intern @ Edward Jones</li>
                     </ul>
                     <h2>
-                        <i>things I enjoy:</i>
+                        things I enjoy:
                     </h2>
                     <ul>
                         <li>blockchain, defi, NFTs, etc.</li>
                         <li>trading</li>
-                        <li>Dota 2</li>
-                        <li>animals :)</li>
+                        <li>Dota, jjba</li>
+                        <li>my dog booboo :)</li>
                     </ul>
                     <h2>
-                        <i>things I'm currently learning:</i>
+                        things I'm currently learning:
                     </h2>
                     <ul>
-                        <li>TypeScript, Solidity, Hardhat, etc.</li>
+                        <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
                         <li>the EVM & smart contract development</li>
-                        <li>networks, distributed computing, blockchain, etc.</li>
+                        <li>contributing to open source</li>
                     </ul>
                     <h2>
-                        <i>things I want to learn in the future:</i>
+                        things I want to learn in the future:
                     </h2>
                     <ul>
-                        <li>Rust, Golang</li>
+                        <li>Golang</li>
                         <li>gas golfing/optimization, MEV, EVM quirks</li>
                         <li>
                             layer 2's, scaling, rollups
                         </li>
                         <li>
-                            infosec, cybersec, and networking in blockchains{" "}
+                            secuirity and networking in blockchains{" "}
                         </li>
                         <li>cryptography, cryptosystems</li>
                         <li>scripting, devtools, hacking</li>
-                        <li>shell, developer productivty, (n)vim</li>
+                        <li>shell, dev productivty, nvim</li>
                     </ul>
                 </div>
                 <footer>

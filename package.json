@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "98.css": "^0.1.17",
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
     "emotion-icons": "^3.27.0",

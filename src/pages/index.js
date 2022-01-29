@@ -1,77 +1,75 @@
-import * as React from "react";
+import React, { useEffect, useState } from "react";
 import "./index.css";
+import "98.css";
+import windows from "../images/windows.png";
 
 const IndexPage = () => {
-    return (
-        <div
-            style={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-            }}
-        >
-            <title>Home Page</title>
-            <div>
-                <h1>hi fren (^_^)/゛</h1>
-                <b>
-                    <a href="https://www.linkedin.com/in/simon-shamoon">
-                        linkedin,
-                    </a>
-                    &nbsp;
-                    <a href="https://www.github.com/simonshm5">github,</a>
-                    &nbsp;
-                    <a href="mailto:simonshm5@gmail.com">email</a>
-                </b>
-                <div>
-                    junior at ASU studying computer science.
-                    <h2>
-                        my experience:
-                    </h2>
-                    <ul>
-                        <li>Incoming SWE intern @ Capital One</li>
-                        <li>SWE intern @ CampusLogic</li>
-                        <li>Equities Trader intern @ Edward Jones</li>
-                    </ul>
-                    <h2>
-                        things I enjoy:
-                    </h2>
-                    <ul>
-                        <li>blockchain, defi, NFTs, etc.</li>
-                        <li>trading</li>
-                        <li>Dota, jjba</li>
-                        <li>my dog booboo :)</li>
-                    </ul>
-                    <h2>
-                        things I'm currently learning:
-                    </h2>
-                    <ul>
-                        <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
-                        <li>the EVM & smart contract development</li>
-                        <li>contributing to open source</li>
-                    </ul>
-                    <h2>
-                        things I want to learn in the future:
-                    </h2>
-                    <ul>
-                        <li>Golang</li>
-                        <li>gas golfing/optimization, MEV, EVM quirks</li>
-                        <li>
-                            layer 2's, scaling, rollups
-                        </li>
-                        <li>
-                            secuirity and networking in blockchains{" "}
-                        </li>
-                        <li>cryptography, cryptosystems</li>
-                        <li>scripting, devtools, hacking</li>
-                        <li>shell, dev productivty, nvim</li>
-                    </ul>
-                </div>
-                <footer>
-                    <i>site inspired by <a href="https://www.gakonst.com/">gakonst.com</a></i>
-                </footer>
-            </div>
+  useEffect(() => {
+    document.body.style.backgroundImage =
+      "url('https://i.imgur.com/MJhYxIJ.gif?noredirect')";
+  }, []);
+  return (
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
+      <div className="window">
+        <div className="title-bar">
+          <div className="title-bar-text">simon_freetrialdiagnostics-x86.exe</div>
+          <div className="title-bar-controls">
+            <button aria-label="Minimize" />
+            <button aria-label="Maximize" />
+            <button aria-label="Close" />
+          </div>
         </div>
-    );
+
+        <div
+          className="window-body"
+          style={{ fontSize: "large", textAlign: "center", margin: 30 }}
+        >
+          <b>
+            <a href="https://www.github.com/simonshm5">github,</a>
+            &nbsp;
+            <a href="mailto:simonshm5@gmail.com">email</a>
+          </b>
+          <br />
+          <br />
+          junior at ASU studying computer science.
+          <br />
+          software engineer generalist w/ focus on full-stack web3.
+          <h4>my experience:</h4>
+          <ul className="tree-view">
+              <li>Incoming SWE intern @ Capital One</li>
+              <li>SWE intern @ CampusLogic</li>
+              <li>Equities Trader intern @ Edward Jones</li>
+          </ul>
+          <h4>things I enjoy:</h4>
+          <ul className="tree-view">
+              <li>web3, defi, NFTs, etc.</li>
+              <li>iced coffee</li>
+              <li>my dog booboo :)</li>
+          </ul>
+          <h4>things I'm currently learning:</h4>
+          <ul className="tree-view">
+              <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
+              <li>the EVM & smart contract development</li>
+              <li>contributing to open source</li>
+          </ul>
+          <h4>things I want to learn in the future:</h4>
+          <ul className="tree-view">
+              <li>MEV</li>
+              <li>l2s, eth scaling, rollups</li>
+              <li>cryptography, cryptosystems</li>
+              <li>scripting, devtools, hacking</li>
+              <li>linux, shell, dev productivty, nvim</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default IndexPage;

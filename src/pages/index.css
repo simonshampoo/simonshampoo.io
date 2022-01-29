@@ -3,7 +3,10 @@ a:visited {
   color: blue;
 }
 
-div{
-  font-size: large; 
+ul li {
+  font-size: 16px; 
 }
 
+h4 {
+  margin: 10px; 
+}

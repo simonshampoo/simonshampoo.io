@@ -16,9 +16,12 @@ const IndexPage = () => {
         alignItems: "center",
       }}
     >
+      <title>simonshampoo</title>w
       <div className="window">
         <div className="title-bar">
-          <div className="title-bar-text">simon_freetrialdiagnostics-x86.exe</div>
+          <div className="title-bar-text">
+            simon_freetrialdiagnostics-x86.exe
+          </div>
           <div className="title-bar-controls">
             <button aria-label="Minimize" />
             <button aria-label="Maximize" />
@@ -42,29 +45,29 @@ const IndexPage = () => {
           software engineer generalist w/ focus on full-stack web3.
           <h4>my experience:</h4>
           <ul className="tree-view">
-              <li>Incoming SWE intern @ Capital One</li>
-              <li>SWE intern @ CampusLogic</li>
-              <li>Equities Trader intern @ Edward Jones</li>
+            <li>Incoming SWE intern @ Capital One</li>
+            <li>SWE intern @ CampusLogic</li>
+            <li>Equities Trader intern @ Edward Jones</li>
           </ul>
           <h4>things I enjoy:</h4>
           <ul className="tree-view">
-              <li>web3, defi, NFTs, etc.</li>
-              <li>iced coffee</li>
-              <li>my dog booboo :)</li>
+            <li>web3, defi, NFTs, etc.</li>
+            <li>iced coffee</li>
+            <li>my dog booboo :)</li>
           </ul>
           <h4>things I'm currently learning:</h4>
           <ul className="tree-view">
-              <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
-              <li>the EVM & smart contract development</li>
-              <li>contributing to open source</li>
+            <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
+            <li>the EVM & smart contract development</li>
+            <li>contributing to open source</li>
           </ul>
           <h4>things I want to learn in the future:</h4>
           <ul className="tree-view">
-              <li>MEV</li>
-              <li>l2s, eth scaling, rollups</li>
-              <li>cryptography, cryptosystems</li>
-              <li>scripting, devtools, hacking</li>
-              <li>linux, shell, dev productivty, nvim</li>
+            <li>MEV</li>
+            <li>l2s, eth scaling, rollups</li>
+            <li>cryptography, cryptosystems</li>
+            <li>scripting, devtools, hacking</li>
+            <li>linux, shell, dev productivty, nvim</li>
           </ul>
         </div>
       </div>

@@ -6,7 +6,8 @@ import windows from "../images/windows.png";
 const IndexPage = () => {
   useEffect(() => {
     document.body.style.backgroundImage =
-      "url('https://i.imgur.com/MJhYxIJ.gif?noredirect')";
+      "url('https://www.icegif.com/wp-content/uploads/icegif-47.gif')";
+    document.body.style.backgroundSize = "cover";
   }, []);
   return (
     <div
@@ -16,12 +17,10 @@ const IndexPage = () => {
         alignItems: "center",
       }}
     >
-      <title>simonshampoo</title>w
+      <title>simonshampoo</title>
       <div className="window">
         <div className="title-bar">
-          <div className="title-bar-text">
-            simon_freetrialdiagnostics-x86.exe
-          </div>
+          <div className="title-bar-text">simon_diagnostics-x86.exe</div>
           <div className="title-bar-controls">
             <button aria-label="Minimize" />
             <button aria-label="Maximize" />
@@ -53,21 +52,21 @@ const IndexPage = () => {
           <ul className="tree-view">
             <li>web3, defi, NFTs, etc.</li>
             <li>iced coffee</li>
+            <li>the vibes fr</li>
             <li>my dog booboo :)</li>
           </ul>
           <h4>things I'm currently learning:</h4>
           <ul className="tree-view">
             <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
-            <li>the EVM & smart contract development</li>
-            <li>contributing to open source</li>
+            <li>the EVM, smart contracts, defi development</li>
+            <li>trading</li>
+            <li>contributing to open source/DAOs</li>
           </ul>
           <h4>things I want to learn in the future:</h4>
           <ul className="tree-view">
             <li>MEV</li>
-            <li>l2s, eth scaling, rollups</li>
-            <li>cryptography, cryptosystems</li>
-            <li>scripting, devtools, hacking</li>
-            <li>linux, shell, dev productivty, nvim</li>
+            <li>l2s, zkps, scaling</li>
+            <li>linux, shell, hacking</li>
           </ul>
         </div>
       </div>

@@ -65,6 +65,7 @@ const IndexPage = () => {
           <h4>things I want to learn in the future:</h4>
           <ul className="tree-view">
             <li>MEV</li>
+            <li>GraphQL/The Graph</li>
             <li>l2s, zkps, scaling</li>
             <li>linux, shell, hacking</li>
           </ul>

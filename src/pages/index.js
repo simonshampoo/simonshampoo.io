@@ -6,7 +6,7 @@ import windows from "../images/windows.png";
 const IndexPage = () => {
   useEffect(() => {
     document.body.style.backgroundImage =
-      "url('https://www.icegif.com/wp-content/uploads/icegif-47.gif')";
+      "url('https://c.tenor.com/mNKLI3iXlMUAAAAC/mew-pokemon.gif')";
     document.body.style.backgroundSize = "cover";
   }, []);
   return (

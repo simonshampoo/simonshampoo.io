@@ -6,7 +6,7 @@ import windows from "../images/windows.png";
 const IndexPage = () => {
   useEffect(() => {
     document.body.style.backgroundImage =
-      "url('https://c.tenor.com/mNKLI3iXlMUAAAAC/mew-pokemon.gif')";
+      "url('https://c.tenor.com/g0c8NmbCTa8AAAAd/pokemon-dragonite.gif')";
     document.body.style.backgroundSize = "cover";
   }, []);
   return (

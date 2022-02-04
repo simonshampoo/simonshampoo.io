@@ -10,3 +10,7 @@ ul li {
 h4 {
   margin: 10px; 
 }
+
+div {
+  cursor: default;
+}

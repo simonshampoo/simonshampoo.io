@@ -35,6 +35,8 @@ const IndexPage = () => {
               style={{ fontSize: "large", textAlign: "center", margin: 30 }}
             >
               <b>
+               <a href="https://www.twitter.com/0xshampoo_">twitter,</a>
+                &nbsp;
                 <a href="https://www.github.com/simonshm5">github,</a>
                 &nbsp;
                 <a href="mailto:simonshm5@gmail.com">email</a>

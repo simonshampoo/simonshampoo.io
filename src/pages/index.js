@@ -48,7 +48,7 @@ const IndexPage = () => {
               software engineer generalist w/ focus on full-stack web3.
               <h4>my experience:</h4>
               <ul className="tree-view">
-                <li>Incoming SWE intern @ Capital One</li>
+                <li>Incoming SWE intern @ [REDACTED]</li>
                 <li>SWE intern @ CampusLogic</li>
                 <li>Equities Trader intern @ Edward Jones</li>
               </ul>

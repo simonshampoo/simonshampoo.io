@@ -8,7 +8,7 @@ const IndexPage = () => {
 
   useEffect(() => {
     document.body.style.backgroundImage =
-      "url('https://c.tenor.com/g0c8NmbCTa8AAAAd/pokemon-dragonite.gif')";
+      "url('https://media4.giphy.com/media/oK257YkUTwuWc/giphy.gif')";
     document.body.style.backgroundSize = "cover";
   }, []);
 
@@ -43,34 +43,33 @@ const IndexPage = () => {
               </b>
               <br />
               <br />
-              junior at ASU studying computer science.
+              junior at ? studying computer science.
               <br />
               software engineer generalist w/ focus on full-stack web3.
               <h4>my experience:</h4>
               <ul className="tree-view">
-                <li>Incoming SWE intern @ [REDACTED]</li>
+                <li>Incoming SWE intern @ big tradfi</li>
                 <li>SWE intern @ CampusLogic</li>
                 <li>Equities Trader intern @ Edward Jones</li>
               </ul>
               <h4>things I enjoy:</h4>
               <ul className="tree-view">
-                <li>web3, defi, NFTs, etc.</li>
+                <li>web3, defi, etc.</li>
                 <li>iced coffee</li>
                 <li>the vibes fr</li>
                 <li>my dog booboo :)</li>
               </ul>
               <h4>things I'm currently learning:</h4>
               <ul className="tree-view">
-                <li>TypeScript, Rust, Solidity, Hardhat, etc.</li>
+                <li>TypeScript, Rust, Solidity, etc.</li>
                 <li>the EVM, smart contracts, defi development</li>
-                <li>trading</li>
-                <li>contributing to open source/DAOs</li>
+                <li>trading, math in finance</li>
               </ul>
               <h4>things I want to learn in the future:</h4>
               <ul className="tree-view">
                 <li>MEV</li>
                 <li>l2s, zkps, scaling</li>
-                <li>linux, shell, hacking</li>
+                <li>Golang</li>
               </ul>
             </div>
           </div>

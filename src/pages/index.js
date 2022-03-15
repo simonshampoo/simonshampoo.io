@@ -45,7 +45,7 @@ const IndexPage = () => {
               <br />
               junior at ? studying computer science.
               <br />
-              software engineer generalist w/ focus on full-stack web3.
+              software engineer generalist w/ focus on web3 & crypto dev.
               <h4>my experience:</h4>
               <ul className="tree-view">
                 <li>Incoming SWE intern @ big tradfi</li>

@@ -25,7 +25,7 @@ const IndexPage = () => {
         <Draggable>
           <div className="window">
             <div className="title-bar">
-              <div className="title-bar-text">simon_diagnostics-x86.exe (drag me!)</div>
+              <div className="title-bar-text">simonshampoo-x86.exe (drag me!)</div>
               <div className="title-bar-controls">
                 <button aria-label="Close" onClick={() => setVisible(false)} />
               </div>

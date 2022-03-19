@@ -1,5 +1,4 @@
 import * as React from "react";
-import monkey from "../images/404.gif";
 
 // styles
 
@@ -22,7 +21,6 @@ const NotFoundPage = () => {
       >
         404 not found
       </h1>
-      <img src={monkey} />
     </main>
   );
 };

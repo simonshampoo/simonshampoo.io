@@ -22,7 +22,7 @@ const IndexPage = () => {
         >
             <title>simonshampoo</title>
             {visible && (
-                <Draggable>
+                <Draggable cancel = ".a">
                     <div className="window">
                         <div className="title-bar">
                             <div className="title-bar-text">

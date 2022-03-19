@@ -22,7 +22,7 @@ const IndexPage = () => {
         >
             <title>simonshampoo</title>
             {visible && (
-                <Draggable cancel = ".a">
+                <Draggable cancel=".link">
                     <div className="window">
                         <div className="title-bar">
                             <div className="title-bar-text">
@@ -44,15 +44,26 @@ const IndexPage = () => {
                             }}
                         >
                             <b>
-                                <a href="https://www.twitter.com/shampoo30001">
+                                <a
+                                    className="link"
+                                    href="https://www.twitter.com/shampoo30001"
+                                >
                                     twitter (follow pls),
                                 </a>
                                 &nbsp;
-                                <a href="https://www.github.com/simonshm5">
+                                <a
+                                    className="link"
+                                    href="https://www.github.com/simonshm5"
+                                >
                                     github,
                                 </a>
                                 &nbsp;
-                                <a href="mailto:simonshm5@gmail.com">email</a>
+                                <a
+                                    className="link"
+                                    href="mailto:simonshm5@gmail.com"
+                                >
+                                    email
+                                </a>
                             </b>
                             <br />
                             <br />

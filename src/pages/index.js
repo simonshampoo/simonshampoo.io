@@ -53,7 +53,7 @@ const IndexPage = () => {
                                 &nbsp;
                                 <a
                                     className="link"
-                                    href="https://www.github.com/simonshm5"
+                                    href="https://www.github.com/simonshampoo"
                                 >
                                     github,
                                 </a>

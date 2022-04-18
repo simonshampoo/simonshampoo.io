@@ -8,7 +8,7 @@ const IndexPage = () => {
 
     useEffect(() => {
         document.body.style.backgroundImage =
-            "url('https://media4.giphy.com/media/oK257YkUTwuWc/giphy.gif')";
+            "url('https://pbs.twimg.com/media/FQmYK1OWQAAZXnV?format=jpg&name=medium')";
         // document.body.style.backgroundSize = "cover";
     }, []);
 

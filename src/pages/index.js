@@ -26,7 +26,7 @@ const IndexPage = () => {
                     <div className="window">
                         <div className="title-bar">
                             <div className="title-bar-text">
-                                simonshampoo-x86.exe (drag me!)
+                                simonshampoo-x86.exe
                             </div>
                             <div className="title-bar-controls">
                                 <button
@@ -48,7 +48,7 @@ const IndexPage = () => {
                                     className="link"
                                     href="https://www.twitter.com/shampoo30001"
                                 >
-                                    twitter (follow pls),
+                                    twitter,
                                 </a>
                                 &nbsp;
                                 <a
@@ -70,7 +70,7 @@ const IndexPage = () => {
                             junior in college studying math and computer
                             science.
                             <br />
-                            software engineer w/ focus on web3 & crypto dev.
+                            software engineer w/ focus on crypto dev.
                             <h4>my experience:</h4>
                             <ul className="tree-view">
                                 <li>Incoming SWE intern @ big tradfi</li>
@@ -79,19 +79,19 @@ const IndexPage = () => {
                             </ul>
                             <h4>things I enjoy:</h4>
                             <ul className="tree-view">
-                                <li>web3, defi, Ethereum</li>
+                                <li>crypto</li>
                                 <li>iced coffee</li>
                                 <li>Dota 2</li>
                                 <li>my dog booboo :)</li>
                             </ul>
                             <h4>things I'm currently learning:</h4>
                             <ul className="tree-view">
-                                <li>TypeScript, Solidity, etc.</li>
+                                <li>TypeScript, Solidity, Rust etc.</li>
                                 <li>
                                     defi protocol structure (uniswap, curve,
                                     yearn rn)
                                 </li>
-                                <li>EVM</li>
+                                <li>the EVM</li>
                                 <li>trading, math in finance</li>
                             </ul>
                             <h4>things I want to learn in the future:</h4>

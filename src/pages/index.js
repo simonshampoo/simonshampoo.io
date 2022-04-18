@@ -8,7 +8,7 @@ const IndexPage = () => {
 
     useEffect(() => {
         document.body.style.backgroundImage =
-            "url('https://pbs.twimg.com/media/FQmYK1OWQAAZXnV?format=jpg&name=medium')";
+            "url('https://www.simpleimageresizer.com/_uploads/photos/acf88f34/FQmYK1OWQAAZXnV_25.jpeg')";
         // document.body.style.backgroundSize = "cover";
     }, []);
 

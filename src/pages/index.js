@@ -8,8 +8,8 @@ const IndexPage = () => {
 
     useEffect(() => {
         document.body.style.backgroundImage =
-            "url('https://www.simpleimageresizer.com/_uploads/photos/acf88f34/FQmYK1OWQAAZXnV_25.jpeg')";
-        // document.body.style.backgroundSize = "cover";
+            "url('https://64.media.tumblr.com/4d6b90227183900e950c5ba0897bfc0b/tumblr_or8wdqkLcj1qbq5g5o4_r1_540.gifv')";
+       //  document.body.style.backgroundSize = "cover";
     }, []);
 
     return (
@@ -46,7 +46,7 @@ const IndexPage = () => {
                             <b>
                                 <a
                                     className="link"
-                                    href="https://www.twitter.com/shampoo30001"
+                                    href="https://www.twitter.com/shampoo_capital"
                                 >
                                     twitter,
                                 </a>
@@ -84,20 +84,21 @@ const IndexPage = () => {
                                 <li>Dota 2</li>
                                 <li>my dog booboo :)</li>
                             </ul>
-                            <h4>things I'm currently learning:</h4>
+                            <h4>things I'm currently learning/doing:</h4>
                             <ul className="tree-view">
-                                <li>TypeScript, Solidity, Rust etc.</li>
+                                <li>Solidity, Rust, etc.</li>
                                 <li>
-                                    defi protocol structure (uniswap, curve,
-                                    yearn rn)
+                                    defi protocols
                                 </li>
                                 <li>the EVM</li>
                                 <li>trading, math in finance</li>
+                                <li>building a binary options betting protocol</li>
                             </ul>
                             <h4>things I want to learn in the future:</h4>
                             <ul className="tree-view">
                                 <li>MEV</li>
-                                <li>Golang and Rust, low level optimization</li>
+                                <li>Yul+, Golang, low level optimization</li>
+                                <li>compiler stuff, core dev, low-latency fun</li>
                             </ul>
                         </div>
                     </div>

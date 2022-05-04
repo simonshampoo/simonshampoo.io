@@ -80,9 +80,9 @@ const IndexPage = () => {
                             <h4>things I enjoy:</h4>
                             <ul className="tree-view">
                                 <li>crypto</li>
-                                <li>iced coffee</li>
                                 <li>Dota 2</li>
-                                <li>my dog booboo :)</li>
+                                <li>chess puzzles</li>
+                                <li>my dog booboo</li>
                             </ul>
                             <h4>things I'm currently learning/doing:</h4>
                             <ul className="tree-view">

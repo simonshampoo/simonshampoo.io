@@ -73,7 +73,7 @@ const IndexPage = () => {
                             software engineer w/ focus on crypto dev.
                             <h4>my experience:</h4>
                             <ul className="tree-view">
-                                <li>Incoming SWE intern @ big tradfi</li>
+                                <li>SWE intern @ Capital One</li>
                                 <li>SWE intern @ edtech startup</li>
                                 <li>Trader (equities) intern @ big tradfi</li>
                             </ul>
@@ -88,7 +88,7 @@ const IndexPage = () => {
                             <ul className="tree-view">
                                 <li>Solidity, Rust, etc.</li>
                                 <li>
-                                    defi protocols
+                                    defi
                                 </li>
                                 <li>the EVM</li>
                                 <li>trading, math in finance</li>
@@ -97,7 +97,7 @@ const IndexPage = () => {
                             <h4>things I want to learn in the future:</h4>
                             <ul className="tree-view">
                                 <li>MEV</li>
-                                <li>Yul+, Golang, low level optimization</li>
+                                <li>yul, huff, Golang, low level optimization</li>
                                 <li>compiler stuff, core dev, low-latency fun</li>
                             </ul>
                         </div>

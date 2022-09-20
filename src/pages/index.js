@@ -67,7 +67,7 @@ const IndexPage = () => {
                             </b>
                             <br />
                             <br />
-                            junior in college studying math and computer
+                            senior in college studying math and computer
                             science.
                             <br />
                             software engineer w/ focus on crypto dev.
@@ -81,24 +81,24 @@ const IndexPage = () => {
                             <ul className="tree-view">
                                 <li>crypto</li>
                                 <li>Dota 2</li>
-                                <li>chess puzzles</li>
+                                <li>chess</li>
                                 <li>my dog booboo</li>
                             </ul>
                             <h4>things I'm currently learning/doing:</h4>
                             <ul className="tree-view">
-                                <li>Solidity, Rust, etc.</li>
+                                <li>Solidity, Rust, Golang.</li>
                                 <li>
-                                    defi
+                                    l2s, zero knowledge, scaling
                                 </li>
-                                <li>the EVM</li>
-                                <li>trading, math in finance</li>
-                                <li>building a binary options betting protocol</li>
+                                <li>the EVM, Cosmos</li>
+                                <li>cryptography</li>
+                                <li>core/infra</li>
                             </ul>
                             <h4>things I want to learn in the future:</h4>
                             <ul className="tree-view">
                                 <li>MEV</li>
-                                <li>yul, huff, Golang, low level optimization</li>
-                                <li>compiler stuff, core dev, low-latency fun</li>
+                                <li>yul, huff, low level</li>
+                                <li>trading/HFT/quant stuff</li>
                             </ul>
                         </div>
                     </div>

@@ -67,7 +67,7 @@ const IndexPage = () => {
                             </b>
                             <br />
                             <br />
-                            senior in college studying math and computer
+                            junior in college studying math and computer
                             science.
                             <br />
                             software engineer w/ focus on crypto dev.
@@ -86,19 +86,15 @@ const IndexPage = () => {
                             </ul>
                             <h4>things I'm currently learning/doing:</h4>
                             <ul className="tree-view">
-                                <li>Solidity, Rust, Golang.</li>
-                                <li>
-                                    l2s, zero knowledge, scaling
-                                </li>
-                                <li>the EVM, Cosmos</li>
-                                <li>cryptography</li>
-                                <li>core/infra</li>
+                                <li>Rust, Solidity.</li>
+                                <li>market making</li>
+                                <li>Ethereum, Fuel, modular execution</li>
+                                <li>functional programming</li>
                             </ul>
                             <h4>things I want to learn in the future:</h4>
                             <ul className="tree-view">
-                                <li>MEV</li>
-                                <li>yul, huff, low level</li>
-                                <li>trading/HFT/quant stuff</li>
+                                <li>MEV, quant stuff</li>
+                                <li>AI, CUDA</li>
                             </ul>
                         </div>
                     </div>

@@ -86,15 +86,14 @@ const IndexPage = () => {
                             </ul>
                             <h4>things I'm currently learning/doing:</h4>
                             <ul className="tree-view">
-                                <li>Rust, Solidity.</li>
-                                <li>market making</li>
-                                <li>Ethereum, Fuel, modular execution</li>
-                                <li>functional programming</li>
+                                <li>Rust, Solidity, WASM</li>
+                                <li>MEV & defi dev</li>
+                                <li>modular execution</li>
                             </ul>
                             <h4>things I want to learn in the future:</h4>
                             <ul className="tree-view">
-                                <li>MEV, quant stuff</li>
-                                <li>AI, CUDA</li>
+                                <li>scaling, rollups, l2s</li>
+                                <li>AI/ML, CUDA</li>
                             </ul>
                         </div>
                     </div>

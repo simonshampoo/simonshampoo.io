@@ -67,7 +67,7 @@ const IndexPage = () => {
                             </b>
                             <br />
                             <br />
-                            software engineer co-op @ Berachain
+                            software engineer co-op @ Berachain 🐻⛓
                             <br />
                             <br />
                             senior in college studying computer

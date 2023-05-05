@@ -8,8 +8,8 @@ const IndexPage = () => {
 
     useEffect(() => {
         document.body.style.backgroundImage =
-            "url('https://64.media.tumblr.com/4d6b90227183900e950c5ba0897bfc0b/tumblr_or8wdqkLcj1qbq5g5o4_r1_540.gifv')";
-       //  document.body.style.backgroundSize = "cover";
+            "url('https://forums.rpgmakerweb.com/data/attachments/90/90682-271a42b91433b94db629d7a72f61233b.jpg')";
+          document.body.style.backgroundSize = "cover";
     }, []);
 
     return (
@@ -67,10 +67,12 @@ const IndexPage = () => {
                             </b>
                             <br />
                             <br />
-                            junior in college studying math and computer
+                            software engineer co-op @ Berachain
+                            <br />
+                            <br />
+                            senior in college studying computer
                             science.
                             <br />
-                            software engineer w/ focus on crypto dev.
                             <h4>my experience:</h4>
                             <ul className="tree-view">
                                 <li>SWE intern @ Capital One</li>
@@ -81,19 +83,19 @@ const IndexPage = () => {
                             <ul className="tree-view">
                                 <li>crypto</li>
                                 <li>Dota 2</li>
-                                <li>chess</li>
                                 <li>my dog booboo</li>
                             </ul>
-                            <h4>things I'm currently learning/doing:</h4>
+                            <h4>currently:</h4>
                             <ul className="tree-view">
-                                <li>Rust, Solidity, WASM</li>
-                                <li>MEV & defi dev</li>
-                                <li>modular execution</li>
+                                <li>Rust, Solidity, Golang</li>
+                                <li>Cosmos, EVM</li>
+                                <li>consensus, game theory, mechanism design</li>
                             </ul>
-                            <h4>things I want to learn in the future:</h4>
+                            <h4>future:</h4>
                             <ul className="tree-view">
                                 <li>scaling, rollups, l2s</li>
-                                <li>AI/ML, CUDA</li>
+                                <li>AI/ML</li>
+                                <li>operating systems, low level</li>
                             </ul>
                         </div>
                     </div>

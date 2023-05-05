@@ -84,6 +84,7 @@ const IndexPage = () => {
                                 <li>crypto</li>
                                 <li>Dota 2</li>
                                 <li>my dog booboo</li>
+                                <li>milady</li>
                             </ul>
                             <h4>currently:</h4>
                             <ul className="tree-view">

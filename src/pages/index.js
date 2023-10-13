@@ -46,13 +46,6 @@ const IndexPage = () => {
                             <b>
                                 <a
                                     className="link"
-                                    href="https://www.twitter.com/shampoo_capital"
-                                >
-                                    twitter,
-                                </a>
-                                &nbsp;
-                                <a
-                                    className="link"
                                     href="https://www.github.com/simonshampoo"
                                 >
                                     github,
@@ -67,7 +60,6 @@ const IndexPage = () => {
                             </b>
                             <br />
                             <br />
-                            software engineer co-op @ Berachain 🐻⛓
                             <br />
                             <br />
                             senior in college studying computer
@@ -75,6 +67,7 @@ const IndexPage = () => {
                             <br />
                             <h4>my experience:</h4>
                             <ul className="tree-view">
+                                <li>SWE intern @ Berachain</li>
                                 <li>SWE intern @ Capital One</li>
                                 <li>SWE intern @ edtech startup</li>
                                 <li>Trader (equities) intern @ big tradfi</li>
@@ -88,15 +81,12 @@ const IndexPage = () => {
                             </ul>
                             <h4>currently:</h4>
                             <ul className="tree-view">
-                                <li>Rust, Solidity, Golang</li>
-                                <li>Cosmos, EVM</li>
+                                <li>HPC, HFT, Systems, C++</li>
                                 <li>consensus, game theory, mechanism design</li>
                             </ul>
                             <h4>future:</h4>
                             <ul className="tree-view">
-                                <li>scaling, rollups, l2s</li>
                                 <li>AI/ML</li>
-                                <li>operating systems, low level</li>
                             </ul>
                         </div>
                     </div>

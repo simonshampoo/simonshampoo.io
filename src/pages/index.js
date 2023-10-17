@@ -59,9 +59,6 @@ const IndexPage = () => {
                                 </a>
                             </b>
                             <br />
-                            <br />
-                            <br />
-                            <br />
                             senior in college studying computer
                             science.
                             <br />
